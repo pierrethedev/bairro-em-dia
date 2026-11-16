@@ -1,0 +1,17 @@
+# Logs e relatorios locais
+logs/*
+!logs/.gitkeep
+
+# Backups locais
+backups/*
+!backups/.gitkeep
+
+# Arquivos temporarios
+*.tmp
+*.swp
+*~
+
+# Segredos e variaveis locais
+.env
+.env.*
+!.env.example
