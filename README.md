@@ -72,3 +72,25 @@ A interface de rede utiliza DHCP. O script de provisionamento realiza backup das
 ## Observação
 
 Os diretórios `logs/` e `backups/` são utilizados localmente. Seus conteúdos são excluídos do versionamento para evitar a publicação de informações específicas da máquina.
+
+## Evidências
+
+As evidências abaixo demonstram o funcionamento da infraestrutura,
+o monitoramento de recursos, o teste de recuperação e o servidor web.
+
+### E01 — Infraestrutura operacional
+![Infraestrutura operacional](evidencias/E01-infraestrutura-operacional.png)
+
+### E04 — Monitoramento de recursos
+![Monitoramento de recursos](evidencias/E04-monitoramento-recursos.png)
+
+### E07 — Teste de recuperação
+
+**Parte 1:**
+![Teste de recuperação - Parte 1](evidencias/E07-recuperacao%20pt1.png)
+
+**Parte 2:**
+![Teste de recuperação - Parte 2](evidencias/E07-recuperacao%20pt2.png)
+
+### E08 — Servidor web Nginx
+![Servidor web Nginx](evidencias/E08-servidor-web-nginx.png)
