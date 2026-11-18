@@ -87,10 +87,10 @@ o monitoramento de recursos, o teste de recuperação e o servidor web.
 ### E07 — Teste de recuperação
 
 **Parte 1:**
-![Teste de recuperação - Parte 1](evidencias/E07-recuperacao%20pt1.png)
+![Teste de recuperação - Parte 1](evidencias/E07-recuperacao-pt1.png)
 
 **Parte 2:**
-![Teste de recuperação - Parte 2](evidencias/E07-recuperacao%20pt2.png)
+![Teste de recuperação - Parte 2](evidencias/E07-recuperacao-pt2.png)
 
 ### E08 — Servidor web Nginx
 ![Servidor web Nginx](evidencias/E08-servidor-web-nginx.png)
