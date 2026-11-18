@@ -3,7 +3,7 @@ Description=Bairro em Dia - API ASP.NET Core
 After=network.target
 
 [Service]
-Type=dotnet
+Type=simple
 User=pierre
 WorkingDirectory=/home/pierre/GS-C-CitizenTech/BairroEmDia.Api
 ExecStart=/usr/bin/dotnet /home/pierre/GS-C-CitizenTech/BairroEmDia.Api/publish/BairroEmDia.Api.dll
