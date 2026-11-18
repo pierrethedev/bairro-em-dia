@@ -148,7 +148,7 @@ o monitoramento de recursos, o teste de recuperação e o servidor web.
 ![Teste de recuperação - Parte 2](evidencias/E07-recuperacao-pt2.png)
 
 ### E08 — Servidor web Nginx
-![Servidor web Nginx](evidencias/E08-servidor-web-nginx.png)
+![Servidor web Nginx](evidencias/E08-aplicacao-web.png)
 
 ### E09 — API automatizada com systemd
 
