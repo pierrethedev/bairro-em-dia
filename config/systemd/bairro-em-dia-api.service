@@ -1,0 +1,20 @@
+[Unit]
+Description=Bairro em Dia - API ASP.NET Core
+After=network.target
+
+[Service]
+Type=dotnet
+User=pierre
+WorkingDirectory=/home/pierre/GS-C-CitizenTech/BairroEmDia.Api
+ExecStart=/usr/bin/dotnet /home/pierre/GS-C-CitizenTech/BairroEmDia.Api/publish/BairroEmDia.Api.dll
+
+Environment=ASPNETCORE_ENVIRONMENT=Development
+Environment=ASPNETCORE_URLS=http://0.0.0.0:5239
+Environment=Frontend__Origins__0=http://127.0.0.1:8080
+Environment=Frontend__Origins__1=http://localhost:8080
+
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
