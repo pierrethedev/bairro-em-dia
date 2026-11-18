@@ -30,7 +30,10 @@ bairro-em-dia/
 │   ├── E04-monitoramento-recursos.png
 │   ├── E07-recuperacao-pt1.png
 │   ├── E07-recuperacao-pt2.png
-│   └── E08-servidor-web-nginx.png
+│   ├── E08-aplicacao-web.png
+│   ├── E08-servidor-web-nginx.png
+│   ├── E09-api-systemd.png
+│   └── E10-api-reboot.png
 ├── logs/
 ├── scripts/
 │   ├── auditoria.sh
