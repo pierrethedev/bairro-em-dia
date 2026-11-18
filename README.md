@@ -20,7 +20,12 @@ Preparar uma infraestrutura Linux para hospedar e apoiar a aplicação CitizenTe
 ```text
 bairro-em-dia/
 ├── backups/
-├── config/
+├── evidencias/
+│   ├── E01-infraestrutura-operacional.png
+│   ├── E04-monitoramento-recursos.png
+│   ├── E07-recuperacao-pt1.png
+│   ├── E07-recuperacao-pt2.png
+│   └── E08-servidor-web-nginx.png
 ├── logs/
 ├── scripts/
 │   ├── auditoria.sh
