@@ -117,8 +117,8 @@ Essa configuração é destinada ao ambiente de desenvolvimento e demonstração
 
 Copie o arquivo de configuração para o diretório de unidades do systemd:
 
-```bash
-sudo cp config/systemd/bairro-em-dia-api.service /etc/systemd/system/
+"```bash
+sudo cp config/systemd/bairro-em-dia-api.service /etc/systemd/system/ "
 
 ## Configuração de rede
 
